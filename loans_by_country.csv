@@ -1,96 +1,97 @@
-Code,Loans
-PH,285336
-KE,143699
-PE,86000
-KH,79701
-SV,64037
-UG,45882
-PK,45120
-TJ,43942
-NI,42519
-CO,33675
-EC,33471
-BO,25250
-PY,24787
-GH,22121
-VN,21839
-LB,20083
-NG,20015
-MX,19708
-TG,17106
-RW,16774
-WS,16435
-TZ,16110
-SL,15576
-HN,15130
-IN,15104
-AM,13952
-PS,13422
-ML,13352
-GT,12864
-SN,12107
-KG,11243
-LR,11170
-ID,10699
-AZ,10172
-JO,10161
-MN,9659
-US,9180
-MZ,7086
-GE,6483
-BJ,5946
-SS,5820
-ZW,5513
-CM,5085
-CD,5074
-UA,4994
-MG,4872
-HT,4765
-CR,4681
-DO,4654
-YE,4206
-TL,3816
-IQ,3570
-BF,3489
-AL,3075
-MM,2724
-EG,2460
-AF,2337
-NP,2215
-XK,2178
-TR,2008
-LA,1758
-MW,1731
-BI,1727
-ZM,1277
-CG,952
-SB,903
-CL,892
-MD,732
-LS,648
-ZA,633
-BA,608
-BR,482
-IL,464
-BG,296
-SR,292
-CI,283
-LK,264
-TH,247
-SO,227
-BZ,218
-PA,196
-CN,134
-PR,80
-TD,61
-VC,16
-GZ,8
-VU,4
-GU,4
-BT,2
-VI,2
-UY,1
-PG,1
-CA,1
-MR,1
-BW,1
+Name,Loans
+Philippines,285336
+Kenya,143699
+Peru,86000
+Cambodia,79701
+El Salvador,64037
+Uganda,45882
+Pakistan,45120
+Tajikistan,43942
+Nicaragua,42519
+Colombia,33675
+Ecuador,33471
+Bolivia,25250
+Paraguay,24787
+Ghana,22121
+Vietnam,21839
+Lebanon,20083
+Nigeria,20015
+Mexico,19708
+Togo,17106
+Rwanda,16774
+Samoa,16435
+Tanzania,16110
+Sierra Leone,15576
+Honduras,15130
+India,15104
+Armenia,13952
+Palestine,13422
+Mali,13352
+Guatemala,12864
+Senegal,12107
+Kyrgyzstan,11243
+Liberia,11170
+Indonesia,10699
+Azerbaijan,10172
+Jordan,10161
+Mongolia,9659
+United States,9180
+Mozambique,7086
+USA,6483
+Benin,5946
+South Sudan,5820
+Zimbabwe,5513
+Cameroon,5085
+The Democratic Republic of the Congo,5074
+Ukraine,4994
+Madagascar,4872
+Haiti,4765
+Costa Rica,4681
+Dominican Republic,4654
+Yemen,4206
+Timor-Leste,3816
+Iraq,3570
+Burkina Faso,3489
+Albania,3075
+Myanmar (Burma),2724
+Egypt,2460
+Afghanistan,2337
+Nepal,2215
+Kosovo,2178
+Turkey,2008
+Lao People's Democratic Republic,1758
+Malawi,1731
+Burundi,1727
+Zambia,1277
+Congo,952
+Solomon Islands,903
+Chile,892
+Moldova,732
+Lesotho,648
+South Africa,633
+Bosnia and Herzegovina,608
+Brazil,482
+Israel,464
+Bulgaria,296
+Suriname,292
+Cote D'Ivoire,283
+Sri Lanka,264
+Thailand,247
+Somalia,227
+Belize,218
+Panama,196
+China,134
+Puerto Rico,80
+Chad,61
+Saint Vincent and the Grenadines,16
+Namibia,9
+Gaza,8
+Guam,4
+Vanuatu,4
+Bhutan,2
+Virgin Islands,2
+Canada,1
+Uruguay,1
+Papua New Guinea,1
+Botswana,1
+Mauritania,1
